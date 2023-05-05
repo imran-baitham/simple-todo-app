@@ -1,5 +1,5 @@
 # 🔥 Responsive Todo App
-### 🔥 Todos
+### 🔥 nozbe - todo
 
 - Responsive todo app Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
